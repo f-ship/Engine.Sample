@@ -1,0 +1,8 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/f-ship/Engine.Sample.Client
+    branch = main
+[submodule "Server"]
+	path = Server
+	url = https://github.com/f-ship/Engine.Sample.Server
+    branch = main
